@@ -25,7 +25,8 @@
     "react-dom": "^18",
     "tailwind-merge": "^2.5.2",
     "tailwindcss-animate": "^1.0.7",
-    "thirdweb": "^5.60.0"
+    "thirdweb": "^5.60.0"，
+    "pino-pretty":"^10.0.0"
   },
   "devDependencies": {
     "@types/node": "^20",
